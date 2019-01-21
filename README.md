@@ -47,7 +47,7 @@ This function reproduces Figure 2 of the paper.
 Apart from Matlab, the following 3rd Party tools are used.
 
 Required (included in release for convenience):
-1. [Boost Graph Library, MatlabBGL version] (http://dgleich.github.io/matlab-bgl/)
+1. [Boost Graph Library, MatlabBGL version](http://dgleich.github.io/matlab-bgl/)
 2. [GraphViz2Mat](https://www.mathworks.com/matlabcentral/fileexchange/4518-matlab-graphviz-interface)
 
 Optimal:
