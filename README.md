@@ -14,7 +14,7 @@ The key theoretical concepts used to make these networks work are explained in t
 
 Also see this page for [code related to our earlier WTA papers](https://services.ini.uzh.ch/~urut/DFAWTA/).
 
-This work is the result of a collaboration between [Ueli Rutishauser](http://rutishauserlab.org), [Jean-Jacques Slotine](http://web.mit.edu/nsl/www/), and [Rodney Douglas](http://www.ini.uzh.ch/~rjd).
+This work is the result of a long-standing collaboration between [Ueli Rutishauser](http://rutishauserlab.org), [Jean-Jacques Slotine](http://web.mit.edu/nsl/www/), and [Rodney Douglas](http://www.ini.uzh.ch/~rjd). The work is (c) by Caltech, MIT, ETH Zurich/University Zurich, and Cedars-Sinai.
 
 This code is released as-is for academic purposes. Feel free to use and re-use as you see fit.
 Uploaded January 2019, Ueli Rutishauser. www.rutishauserlab.org 
