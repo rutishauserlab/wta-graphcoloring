@@ -51,7 +51,7 @@ Required (included in release for convenience):
 2. [GraphViz2Mat](https://www.mathworks.com/matlabcentral/fileexchange/4518-matlab-graphviz-interface)
 
 Optimal:
-1. JFLAP (+Java) (http://jflag.org)
+1. JFLAP (+Java) (http://jflap.org)
 2. graphviz
 
 ## XML Graph format
