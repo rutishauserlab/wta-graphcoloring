@@ -1,13 +1,13 @@
-# Winner-take-all networks for graph coloring (wta-graphcoloring)
+# Solving constraint-satisfaction problems with distributed neocortical-like neuronal networks
 
 ## Overview
-This directory contains Matlab code to simulate solving constraint satisfaction problems with networks of winner-take-all networks. This work is the result of a collaboration between [Ueli Rutishauser](http://rutishauserlab.org), [Jean-Jacques Slotine](http://web.mit.edu/nsl/www/), and [Rodney Douglas](http://www.ini.uzh.ch).
+This directory contains Matlab code to simulate solving constraint satisfaction problems with networks of winner-take-all networks. This work is the result of a collaboration between [Ueli Rutishauser](http://rutishauserlab.org), [Jean-Jacques Slotine](http://web.mit.edu/nsl/www/), and [Rodney Douglas](http://www.ini.uzh.ch/~rjd).
 
 The purpose of this released code is to reproduces key aspects of this paper:
->Solving constraint-satisfaction problems with distributed neocortical-like neuronal networks. Rutishauser U, Jean-Jacques Slotine, Rodney Douglas Neural computation, 30(5):1359-1393 (2018). [Fulltext](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5930080/)
+> Rutishauser U, Jean-Jacques Slotine, Rodney Douglas. Solving constraint-satisfaction problems with distributed neocortical-like neuronal networks.  *Neural computation, 30(5):1359-1393 (2018)*. [Fulltext](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5930080/)
 
 The key theoretical concepts used to make these networks work are explained in this paper:
->Computation in dynamically bounded asymmetric systems. U. Rutishauser, JJ. Slotine, RJ. Douglas. PLOS Computational Biology, 11(1): e1004039 (2015). [Fulltext](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004039)
+>U. Rutishauser, JJ. Slotine, RJ. Douglas. Computation in dynamically bounded asymmetric systems.  *PLOS Computational Biology, 11(1): e1004039 (2015)*. [Fulltext](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004039)
 
 Also see this page for [code related to our earlier WTA papers](https://services.ini.uzh.ch/~urut/DFAWTA/).
 
